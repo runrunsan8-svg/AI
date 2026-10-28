@@ -23,11 +23,10 @@ GitHub Pages公開先: https://runrunsan8-svg.github.io/AI/
 
 GitHubのSettings → Pagesで、Deploy from a branch / main / (root) を選ぶと公開されます。`.nojekyll`により静的ファイルをそのまま配信します。
 
-## 身体からはじめる住まい選び
+## 身体からはじめる生き方選び
 
-`housing.html` は、実際の内見で生まれた問い、身体の体験、住まい選びの3ステップ、VF、内見ノート、今後の取り組みをまとめた紹介ページです。トップページのメニューと紹介欄から開けます。
+`housing.html` は、実際の内見で生まれた問い、生き方選びの3ステップ、大切にしていることを振り返る問い、内見ノートをまとめた紹介ページです。トップページのメニューと紹介欄から開けます。
 
-- VFのリンクは既存の `values.html#assessment` に移動します。
+- 価値観の問いのリンクは既存の `values.html#assessment` に移動します。
 - 内見ノートはブラウザー内だけで入力を相談メモにまとめます。保存・送信はしません。コピー、印刷・PDF保存ができます。
-- SNS・メルマガ・体験・相談の受付は未接続です。公開用URLや受付先が決まってから接続してください。
-- Cloudflare Pagesの `kurashi-design.pages.dev` とこのGitHubリポジトリの連携は未確認です。GitHubへの反映だけでCloudflareへの公開完了とは扱わないでください。
+- Cloudflare Pagesの `kurashi-design.pages.dev` は、ユーザー申告ではこのGitHubリポジトリに連携しています。公開ブランチとCloudflareでの公開完了は、この環境の接続制限により未確認です。
